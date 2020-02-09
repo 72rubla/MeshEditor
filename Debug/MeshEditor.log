@@ -1,0 +1,9 @@
+﻿  Split.cpp
+e:\files\khnu\amc_bridge\++\mesheditor\mesheditor\split.cpp(331): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+e:\files\khnu\amc_bridge\++\mesheditor\mesheditor\split.cpp(82): warning C4101: t: неиспользованная локальная переменная
+e:\files\khnu\amc_bridge\++\mesheditor\mesheditor\split.cpp(308): warning C4101: startP1: неиспользованная локальная переменная
+e:\files\khnu\amc_bridge\++\mesheditor\mesheditor\split.cpp(308): warning C4101: startP2: неиспользованная локальная переменная
+  main.cpp
+e:\files\khnu\amc_bridge\++\mesheditor\mesheditor\main.cpp(14): warning C4101: a: неиспользованная локальная переменная
+  Создание кода...
+  MeshEditor.vcxproj -> E:\Files\KHNU\AMC_Bridge\++\MeshEditor\Debug\MeshEditor.exe
